@@ -24,7 +24,7 @@ Clone the repository or download the source code.
 
 bash
 Copy code
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Mangesh-Poskar29/library-management-system.git
 Open the project in NetBeans IDE.
 
 Build the project to resolve dependencies and compile the code.
