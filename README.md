@@ -2,7 +2,7 @@ Library Management System in Java
 Overview
 This project is a simple Library Management System implemented using Java and designed to run on the NetBeans IDE. 
 The system allows librarians to manage book records, member details, borrow and return books, and generate reports. 
-It is a console-based application, offering basic functionalities to demonstrate core library management operations.
+It offers basic functionalities to demonstrate core library management operations.
 
 Features
 Add, update, and delete book records.
